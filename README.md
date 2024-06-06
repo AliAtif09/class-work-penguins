@@ -1,1 +1,1 @@
-# class-work-penguins
+# project-1
